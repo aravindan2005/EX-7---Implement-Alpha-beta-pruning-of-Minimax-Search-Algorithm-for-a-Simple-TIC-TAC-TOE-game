@@ -138,9 +138,9 @@ if __name__ == "__main__":
 ```
 <hr>
 <h2>Input and Output:</h2>
-<img width="457" height="518" alt="image" src="https://github.com/user-attachments/assets/67154f9d-9372-44df-b816-b962512fa1e3" />
-<img width="434" height="486" alt="image" src="https://github.com/user-attachments/assets/5eb88bd5-8394-49a0-85b0-21b9490a6b6c" />
-<img width="400" height="488" alt="image" src="https://github.com/user-attachments/assets/71589a00-6f3a-47cb-82c2-ede62a41e89a" />
-<img width="391" height="213" alt="image" src="https://github.com/user-attachments/assets/e2670ce4-5a0c-45d0-9c36-203455b8b35c" />
+<img width="555" height="666" alt="image" src="https://github.com/user-attachments/assets/67154f9d-9372-44df-b816-b962512fa1e3" />
+<img width="555" height="666" alt="image" src="https://github.com/user-attachments/assets/5eb88bd5-8394-49a0-85b0-21b9490a6b6c" />
+<img width="555" height="666" alt="image" src="https://github.com/user-attachments/assets/71589a00-6f3a-47cb-82c2-ede62a41e89a" />
+<img width="555" height="666" alt="image" src="https://github.com/user-attachments/assets/e2670ce4-5a0c-45d0-9c36-203455b8b35c" />
 <h2>RESULT</h2>
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
